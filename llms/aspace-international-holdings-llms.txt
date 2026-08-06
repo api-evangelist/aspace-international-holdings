@@ -1,0 +1,43 @@
+# ASPACE International Holdings
+
+> ASPACE International Holdings is a commercial space company founded in 2015 with
+> offices in Dubai, United Arab Emirates and Hong Kong, China, built around the Abu
+> Dhabi Space Eco City aerospace industrial cluster. It is a hardware, industrial
+> development and investment holding business — not a software vendor. As of
+> 2026-08-06 it publishes **no API, no SDK, no developer portal and no
+> machine-readable specification**, and no first-party corporate domain for the
+> company resolves.
+
+## What this file is
+
+This llms.txt is maintained by [API Evangelist](https://apievangelist.com) as an
+independent, third-party profile. It is not published by ASPACE International
+Holdings. It was generated from the company's public surfaces on 2026-08-06.
+
+## Company
+
+- [LinkedIn — ASPACE International Holdings](https://www.linkedin.com/company/aspace-international-holdings): Aviation and Aerospace Component Manufacturing; Dubai, UAE and Hong Kong, China; 201-500 employees. No website is listed on the page.
+- [Crunchbase profile](https://www.crunchbase.com/organization/aspace-international-holdings): funding and investor record.
+- [Hiive secondary-market listing](https://www.hiive.com/securities/aspace-international-holdings-stock): the private-share listing this profile was harvested from.
+
+## Business
+
+- Abu Dhabi Space Eco City — a three-million-square-metre aerospace industrial cluster the company says will bring together more than 3,000 partner companies in satellite manufacturing, space trade and aerospace technology innovation.
+- The ASPACE brand is shared with Hong Kong-listed USPACE Technology Group, whose satellite-manufacturing subsidiary was renamed Aspace Satellite Technology Limited in 2023.
+- Investment from Alpha MBM Investments; the company in turn makes minority investments, including a stake in the private-equity trading platform Cubin LLC announced in 2023.
+
+## API surface
+
+None found. Contract discovery on 2026-08-06 checked, and found nothing:
+
+- No corporate domain: aspace.com, aspaceholdings.com, aspaceint.com, aspaceinternational.com, aspace.global, aspacegroup.com, aspace.com.hk and aspaceintlholdings.com return NXDOMAIN. aspace.ae is a parked OnlyDomains page; aspace.io, aspace.co and aspace.space are registrar landers; aspace.cc returns an nginx 404.
+- No OpenAPI, Swagger, GraphQL SDL, AsyncAPI, Postman collection or JSON Schema published anywhere.
+- No `/.well-known/agent-card.json` or `/.well-known/agent.json` A2A agent card.
+- No MCP server, no `llms.txt` published by the company.
+- The related USPACE Technology Group group site returns 404 on `/developers`, `/api`, `/docs`, `/openapi.json`, `/llms.txt`, `/.well-known/security.txt` and `/.well-known/agent-card.json`.
+
+## Corrections
+
+Wrong or out of date? Open an issue on
+<https://github.com/api-evangelist/aspace-international-holdings> or email
+<info@apievangelist.com>. Corrections, re-scores and removal are free.
